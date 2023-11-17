@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import BadImport from "file/bad-import";
 
 function App() {
   return (
